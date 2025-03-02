@@ -33,6 +33,6 @@ This project analyzes **global mortality trends** for **Alzheimer’s, Malaria, 
 - **Future Work**: Incorporate **real-time health data** & machine learning predictions.  
 
 ## 📞 Contact
-For feedback, collaborations, or discussions, feel free to connect on [LinkedIn](#).  
+For feedback, collaborations, or discussions, feel free to connect on [LinkedIn](https://www.linkedin.com/in/ehteshaamkhan/) 
 
 🚀 **Explore the project & feel free to contribute!**  
